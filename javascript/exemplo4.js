@@ -1,1 +1,3 @@
-let nome="Rafael"
+let nome="Rafael";
+
+let idade=26;
